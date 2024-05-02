@@ -64,7 +64,7 @@
   
   <br/><br/><br/>
 </div>
-![joencrypts's Stats](https://github-readme-stats.vercel.app/api?username=joencrypts&theme=dark&show_icons=true&hide_border=false&count_private=false)
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
