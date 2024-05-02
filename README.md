@@ -1,14 +1,13 @@
 <img align="right" src="https://img.shields.io/github/watchers/joencrypts/joencrypts" />
 <h1 align="center">
 	  <img src="https://i.ibb.co/PGSJ6Rn/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header GIF">
-
 </h1>
 <br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+This+is+Shanjo+Benadict;+Welcome+to+joencrypts;" />
 </h1>
 
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Developer</h3>
 
 <br/>
 
