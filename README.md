@@ -88,6 +88,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hope+You+had+a+Great+Time%2C+Either+You+Recruit+Me+or+I+will+Recruit+You." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hope+You+had+a+Great+Time%2C+;So+what's+the+deal%3F;Let's+Hustle+Together!" alt="Typing SVG" /></a>
 </div>
+
 <br/>
