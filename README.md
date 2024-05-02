@@ -86,9 +86,9 @@
 <div align="center">
 <a href='https://buymeacoffee.com/joencrypts' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at BUYMEACOFFEE.com' /></a>
 </div>
-
+<h1>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hope+You+had+a+Great+Time%2C+;So+what's+the+deal%3F;Let's+Hustle+Together!" alt="Typing SVG" /></a>
 </div>
-
+	</h1>
 <br/>
