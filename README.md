@@ -1,5 +1,8 @@
 <img align="right" src="https://img.shields.io/github/watchers/joencrypts/joencrypts" />
-
+<h1 align="top">
+	<img src="https://ibb.co/N24fyXP"/>
+</h1>
+<br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+This+is+Shanjo+Benadict;+Welcome+to+joencrypts;" />
 </h1>
