@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+This+is+Shanjo+Benadict;+Welcome+to+joencrypts;" />
 </h1>
 
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">I'm a Passionate Developer</h3>
 
 <br/>
 
@@ -87,4 +87,7 @@
 <a href='https://buymeacoffee.com/joencrypts' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at BUYMEACOFFEE.com' /></a>
 </div>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hope+You+had+a+Great+Time%2C+Either+You+Recruit+Me+or+I+will+Recruit+You." alt="Typing SVG" /></a>
+</div>
 <br/>
