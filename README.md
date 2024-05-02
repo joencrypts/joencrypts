@@ -1,7 +1,7 @@
-<img align="right" alt="GitHub watchers" src="https://img.shields.io/github/watchers/joencrypts/joencrypts">
+<img align="right" src="https://img.shields.io/github/watchers/joencrypts/joencrypts" />
+<h1 align="center">
+	  <img src="https://i.ibb.co/PGSJ6Rn/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header GIF">
 
-<h1 align="top">
-	<a href="https://ibb.co/N24fyXP"><img src="https://i.ibb.co/PGSJ6Rn/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" border="0"></a>
 </h1>
 <br/>
 <h1 align="center">
@@ -62,7 +62,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions 🐍</h2>f
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joencrypts/joencrypts/output/github-contribution-grid-snake.svg" />
   
