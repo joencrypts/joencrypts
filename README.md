@@ -1,6 +1,6 @@
 <img align="right" src="https://img.shields.io/github/watchers/joencrypts/joencrypts" />
 <h1 align="top">
-	<img src="https://ibb.co/N24fyXP"/>
+	<a href="https://ibb.co/N24fyXP"><img src="https://i.ibb.co/PGSJ6Rn/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" border="0"></a>
 </h1>
 <br/>
 <h1 align="center">
