@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Cyber Security, Bug Hunting and Defence**
 
-💬 Ask me about **Linux, Python Automation, Pen-testing... or anything [here](https://github.com/joencrypts/joencrypts/issues)**
+💬 Ask me about **Linux, Python Automation, Pen-testing...**
 
 ⚡ Fun fact **Sakalaka BOOM BOOM! before and after every project**
 
