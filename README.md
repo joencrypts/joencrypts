@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Cyber Security, Bug Hunting and Defence**
 
-💬 Ask me about **Linux, Python Automation, Pen-testing...**
+💬 Ask me about **Linux, Python Automation, Pen-testing**
 
 ⚡ Fun fact **Sakalaka BOOM BOOM! before and after every project**
 
